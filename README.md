@@ -1,5 +1,5 @@
 # softmax_estmating_parameters
-Estimating the thetas using 
+Estimating the thetas for Softmax Regression (Multinomial logistic regression) using 
 1) Gradient Descent, 
 2) Stochastic Gradient Descent 
 3) Mini-batch Gradient Descent and 
